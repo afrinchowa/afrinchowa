@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/J5gqg5B/chowa.png)
+![MasterHead](https://i.ibb.co/gdHBnQ8/chowa.png)
 <h1 align="center">Hi 👋, I'm Moriom Afrin Chowa</h1>
 <h3 align="center">"Architecting Tomorrow's Solutions: Code Artisan and Software Engineer Extraordinaire 🚀"</h3>
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/4SXpKzm/601014116770475-6068beff4640a.gif">
