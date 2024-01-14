@@ -1,5 +1,5 @@
 ![MasterHead](https://i.ibb.co/gdHBnQ8/chowa.png)
-<h1 align="center">Hi 👋, I'm Moriom Afrin Chowa</h1>
+<h1 align="center">Hi 👋, I'm Moriom Afrin Soya</h1>
 <h3 align="center">"Architecting Tomorrow's Solutions: Code Artisan and Software Engineer Extraordinaire 🚀"</h3>
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/4SXpKzm/601014116770475-6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrinchowa&label=Profile%20views&color=0e75b6&style=flat" alt="afrinchowa" /> </p>
