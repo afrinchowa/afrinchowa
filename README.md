@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **NovaSphere**
 
-- 🌱 I’m currently learning **PHP,Laravel.**
+- 🌱 I’m currently learning **Typescript,Mongoose,SQL.**
 
 - 💬 Ask me about **MERN**
 
