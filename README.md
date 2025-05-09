@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/y90sTtv/Red-and-Black-Modern-Business-Development-Strategy-Banner.png)
+![MasterHead](https://i.ibb.co.com/y90sTtv/Red-and-Black-Modern-Business-Development-Strategy-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Moriom Afrin Soya</h1>
 <h3 align="center">🚀 Architecting Tomorrow's Solutions | Code Artisan & Software Engineer</h3>
@@ -22,20 +22,18 @@
 - 🌱 Learning: **TypeScript, Mongoose, SQL**
 - 💬 Ask me about: **MERN Stack**
 - 📫 Reach me at: **arfinchowa524@gmail.com**
-- ⚡ Fun fact: _The world's first computer virus was a "brain" experiment. Let's write code that's brilliant—not viral! 🧠💻_
+- ⚡ Fun fact: *The world's first computer virus was a "brain" experiment. Let's write code that's brilliant—not viral! 🧠💻*
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌐 Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -43,19 +41,16 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ Backend & Auth
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🛢️ Database
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🧰 Tools & State Management
-
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
