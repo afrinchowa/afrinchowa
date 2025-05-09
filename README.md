@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/y90sTtv/Red-and-Black-Modern-Business-Development-Strategy-Banner.png)
+![MasterHead](https://i.ibb.co.com/Lf3Y8Bw/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Moriom Afrin Soya</h1>
 <h3 align="center">🚀 Architecting Tomorrow's Solutions | Code Artisan & Software Engineer</h3>
