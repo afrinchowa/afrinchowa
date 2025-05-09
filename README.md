@@ -16,17 +16,30 @@
 
 ---
 
-### 🚀 About Me
+### 🌟 Welcome to My World of Code
 
-Hi, I'm **Moriom Afrin Soya** — a passionate **Software Engineer** and problem-solver who loves turning ideas into impactful digital experiences.
+Hey there! I'm **Moriom Afrin Soya**, a **Software Engineer** who believes that the best code not only solves problems but also creates experiences that last.
 
-- 🔭 **Currently Building**: *NovaSphere* – crafting seamless user experiences and robust backend logic.  
-- 🌱 **Actively Learning**: Deep-diving into **TypeScript**, **Mongoose**, and **SQL** to sharpen my full-stack capabilities.  
-- 💡 **Stack Specialist**: MERN Stack enthusiast with a knack for architecting scalable, secure web applications.  
-- ✍️ **Fun Fact**: The world's first computer virus was called “Brain” — I write code that powers futures, not infects systems! 🧠💻  
-- 📫 **Let’s Connect**: **arfinchowa524@gmail.com** — always open to collaborations, contributions, or just geeking out on tech.
+🚀 **Currently On My Radar**:  
+Building *NovaSphere*, a project that brings together innovation and user-centric design, from ground up.
+
+🔍 **Learning & Growing**:  
+- **Tech I’m Exploring**: **TypeScript**, **Mongoose**, **SQL**  
+- **Building with**: **MERN Stack** — Creating full-stack applications that push the envelope of what’s possible.
+
+💡 **Specialty**:  
+- Crafting scalable backend architectures.  
+- Creating seamless, intuitive frontend experiences.  
+- Passionate about clean, efficient code and learning new tech to level up my skills.
+
+✨ **Fun Fact**:  
+Did you know the world’s first computer virus was called *Brain*? Unlike that, I’m focused on writing code that’s innovative, impactful, and—hopefully—virus-free! 🧠💻
+
+📬 **Let’s Talk Tech!**  
+Drop me an email at **arfinchowa524@gmail.com** for collaborations, open-source contributions, or tech chats.
 
 ---
+
 
 
 ## 🛠️ Tech Stack
