@@ -18,13 +18,16 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **NovaSphere**
-- 🌱 Learning: **TypeScript, Mongoose, SQL**
-- 💬 Ask me about: **MERN Stack**
-- 📫 Reach me at: **arfinchowa524@gmail.com**
-- ⚡ Fun fact: *The world's first computer virus was a "brain" experiment. Let's write code that's brilliant—not viral! 🧠💻*
+Hi, I'm **Moriom Afrin Soya** — a passionate **Software Engineer** and problem-solver who loves turning ideas into impactful digital experiences.
+
+- 🔭 **Currently Building**: *NovaSphere* – crafting seamless user experiences and robust backend logic.  
+- 🌱 **Actively Learning**: Deep-diving into **TypeScript**, **Mongoose**, and **SQL** to sharpen my full-stack capabilities.  
+- 💡 **Stack Specialist**: MERN Stack enthusiast with a knack for architecting scalable, secure web applications.  
+- ✍️ **Fun Fact**: The world's first computer virus was called “Brain” — I write code that powers futures, not infects systems! 🧠💻  
+- 📫 **Let’s Connect**: **arfinchowa524@gmail.com** — always open to collaborations, contributions, or just geeking out on tech.
 
 ---
+
 
 ## 🛠️ Tech Stack
 
