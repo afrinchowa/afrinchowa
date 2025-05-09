@@ -25,7 +25,13 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,html,css,figma,firebase,c)](https://skillicons.dev)
+
+---
+
+   <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/afrinchowa81" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afrinchowa81" height="30" width="40" />
