@@ -1,77 +1,88 @@
 ![MasterHead](https://i.ibb.co/gdHBnQ8/chowa.png)
 
 <h1 align="center">Hi 👋, I'm Moriom Afrin Soya</h1>
-<h3 align="center">"Architecting Tomorrow's Solutions: Code Artisan and Software Engineer Extraordinaire 🚀"</h3>
+<h3 align="center">🚀 Architecting Tomorrow's Solutions | Code Artisan & Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.ibb.co/4SXpKzm/601014116770475-6068beff4640a.gif" />
+<p align="center">
+  <img src="https://i.ibb.co/4SXpKzm/601014116770475-6068beff4640a.gif" alt="coding" width="400" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afrinchowa&label=Profile%20views&color=0e75b6&style=flat" alt="afrinchowa" /> </p>
-
-<p align="left">
-  <a href="https://twitter.com/afrinchowa81" target="blank">
-    <img src="https://img.shields.io/twitter/follow/afrinchowa81?logo=twitter&style=for-the-badge" alt="afrinchowa81" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afrinchowa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://twitter.com/afrinchowa81" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/afrinchowa81?logo=twitter&style=flat-square" alt="twitter follow" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **NovaSphere**
+---
 
-- 🌱 I’m currently learning **TypeScript, Mongoose, SQL**
+### 🚀 About Me
 
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me: **arfinchowa524@gmail.com**
-
-- ⚡ Fun fact: **The world's first computer virus was created as a 'brain' experiment. Let's create code that's brilliant, not viral! 🧠💻 #CodeSafely**
+- 🔭 Currently working on: **NovaSphere**
+- 🌱 Learning: **TypeScript, Mongoose, SQL**
+- 💬 Ask me about: **MERN Stack**
+- 📫 Reach me at: **arfinchowa524@gmail.com**
+- ⚡ Fun fact: *The world's first computer virus was a "brain" experiment. Let's write code that's brilliant—not viral! 🧠💻*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,html,css,figma,firebase,c)](https://skillicons.dev)
-
----
-
-   <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/afrinchowa81" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afrinchowa81" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/moriom-afrin-chowa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moriom-afrin-chowa" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/moriom.afrin.soya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moriom afrin soya" height="30" width="40" />
-  </a>
-</p>
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+### ⚙️ Backend & Auth
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🛢️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔐 Auth & Tools
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+### 🧰 Tools & State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinchowa&show_icons=true&locale=en&layout=compact" alt="afrinchowa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinchowa&show_icons=true&locale=en" alt="afrinchowa" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinchowa&" alt="afrinchowa" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrinchowa&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrinchowa&theme=radical" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrinchowa&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/moriom-afrin-chowa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/afrinchowa81" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://fb.com/moriom.afrin.soya" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
